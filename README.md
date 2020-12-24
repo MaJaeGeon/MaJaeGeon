@@ -1,15 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaJaeGeon&count_bg=%2300AAFF&title_bg=%232D2D2D&icon=dot-net.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 지금 배우고 있는 것
+### I’m currently learning ...
 - ASP.NET Core
 - Git
 
-### 배워야 하거나 배우고 싶은 것
-- 알고리즘
-- 자료구조
-- 머신러닝
-- 인공지능
+### What I want to learn or what I need to learn
+- Algorithm
+- Data Structure
+- Machine Learning
+- Network
+- Linux Server
 
 --------------
 
