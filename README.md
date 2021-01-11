@@ -6,8 +6,8 @@
 
 
 ### I’m currently learning ...  
-- ASP.NET Core
-- Git
+- ASP.NET Core MVC
+- C#
 
 ### What I want to learn or what I need to learn
 - Algorithm
