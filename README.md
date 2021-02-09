@@ -5,7 +5,7 @@
 --------------------- 
 
    
-### I’m currently learning ...        
+### I’m currently learning ...
 - ASP.NET Core MVC
 - C#
 - WPF
