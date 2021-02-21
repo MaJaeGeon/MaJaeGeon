@@ -6,7 +6,7 @@
 
 
 ### I’m currently learning ...
-- ASP.NET Core MVC 
+- ASP.NET Core MVC  
 - C#
 - WPF
 
