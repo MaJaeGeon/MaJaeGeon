@@ -8,7 +8,7 @@
 ### I’m currently learning ...
 - ASP.NET Core MVC
 - C#
-- WPF
+- Docker
 
 ### What I want to learn or what I need to learn
 - Algorithm
