@@ -7,6 +7,7 @@
   
 ### I’m currently learning ...
 - ASP.NET Core MVC
+- Blazor
 - C#
 - Docker
 
